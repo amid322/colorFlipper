@@ -1,0 +1,35 @@
+body {
+    background-color: hotpink;
+}
+h1 {
+    
+    text-align: center;
+    font-size: 3rem;
+}
+.btn{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: rgb(42, 62, 80);
+    border-radius: 5px;
+    height: 50px;
+    width: 108px;
+    margin: 10px;
+    display: inline;
+    padding: 10px;
+}
+
+.btn1 {
+    background-color: green;
+}
+.btn2 {
+    background-color: yellow;
+}
+.btn3 {
+    background-color:white;
+}
+.btn4 {
+    background-color: red;
+}
+.btn5{
+    background-color: blue;
+}
